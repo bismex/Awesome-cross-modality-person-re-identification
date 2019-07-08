@@ -11,7 +11,7 @@ This is a repository for organizing articles related to cross-modality person re
 
 ---
 
-## Visible thermal person re-identification
+## 1. Visible thermal person re-identification
 > #### 1) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
 > #### 2) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"*, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
 > #### 3) *"Person Re-Identification Between Visible and Thermal Camera Images Based on Deep Residual CNN Using Single Input"*, IEEE Acess 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8705321)]
@@ -24,13 +24,13 @@ This is a repository for organizing articles related to cross-modality person re
 
 ---
 
-## Thermal image translation
+## 2. Thermal image translation
 > #### 1) *"ThermalGAN: Multimodal Color-to-Thermal Image Translation for Person Re-Identification in Multispectral Dataset"*, ECCVW 2018 [[paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.pdf)]
 > #### 2) *"IR2VI: Enhanced Night Environmental Perception by Unsupervised Thermal Image Translation"*, CVPRW 2018 [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Liu_IR2VI_Enhanced_Night_CVPR_2018_paper.pdf)]
 
 --- 
 
-## Useful resources for cross-modality re-id
+## 3. Useful resources for cross-modality re-id
 ### w/ deep leaning
 > #### 1) *"Illumination-Adaptive Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.04525.pdf)]
 > #### 2) *"FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking"*, arXiv 2018 [[paper](https://arxiv.org/pdf/1811.09855.pdf)]
