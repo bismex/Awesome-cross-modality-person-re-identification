@@ -40,8 +40,8 @@ This is a repository for organizing articles related to cross-modality person re
 ### w/o deep learning
 > #### 1) *"Cross-View Person Identification Based on Confidence-Weighted Human Pose Matching"*, TIP 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8642932)]
 > #### 2) *"Online Non-Negative Multi-Modality Feature Template Learning for RGB-Assisted Infrared Tracking"*, IEEE Access 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713854)]
-> #### 3) *"Fast RGB-T Tracking via Cross-Modal Correlation Filters"*, Neurocomputing 2019 [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231219300347?
-> #### 4) *"Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System"*, TIE 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643077)]token=DCEC13801784F963F23E53C605721A536D8E09C2C996A04DE67E3DAFA7D0E5C30C28C99FD2F00C709457336EF1035B2E)]
+> #### 3) *"Fast RGB-T Tracking via Cross-Modal Correlation Filters"*, Neurocomputing 2019 [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231219300347?)]
+> #### 4) *"Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System"*, TIE 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643077)]
 > #### 5) *"Robust Collaborative Discriminative Learning for RGB-Infrared Tracking"*, AAAI 2018 [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16878/16289)]
 > #### 6) *"Modality-correlation-aware Sparse Representation for RGB-infrared Object Tracking"*, PRL 2018 [[paper](https://reader.elsevier.com/reader/sd/pii/S0167865518307633?token=D9B1592900076E965F3E70F01626BCE62B5D334F6E4009E8044CEF4AB1ACA7246D2F9D31FC016D376F5C8EE8D0E9D955)]
 
