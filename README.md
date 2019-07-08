@@ -9,11 +9,7 @@ This is a repository for organizing articles related to cross-modality person re
 - Changes to categories for some articles
 - Additions of a summary or performance
 
-
-## Table of Contents
-{: class="table-of-content"}
-* TOC
-{:toc}
+---
 
 ## Visible thermal person re-identification
 > #### 1) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
@@ -26,14 +22,20 @@ This is a repository for organizing articles related to cross-modality person re
 > #### 8) *"Hierarchical Discriminative Learning for Visible Thermal Person Re-Identification"*, AAAI 2018 [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16734/16350)]
 > #### 9) *"RGB-Infrared Cross-Modality Person Re-Identification"*, ICCV 2017 [[paper](https://kovenyu.com/papers/2017_ICCV_rgb.pdf)]
 
+---
+
 ## Thermal image translation
 > #### 1) *"ThermalGAN: Multimodal Color-to-Thermal Image Translation for Person Re-Identification in Multispectral Dataset"*, ECCVW 2018 [[paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.pdf)]
 > #### 2) *"IR2VI: Enhanced Night Environmental Perception by Unsupervised Thermal Image Translation"*, CVPRW 2018 [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Liu_IR2VI_Enhanced_Night_CVPR_2018_paper.pdf)]
+
+--- 
 
 ## Useful resources for cross-modality re-id
 ### w/ deep leaning
 > #### 1) *"Illumination-Adaptive Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.04525.pdf)]
 > #### 2) *"FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking"*, arXiv 2018 [[paper](https://arxiv.org/pdf/1811.09855.pdf)]
+
+---
 
 ### w/o deep learning
 > #### 1) *"Cross-View Person Identification Based on Confidence-Weighted Human Pose Matching"*, TIP 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8642932)]
