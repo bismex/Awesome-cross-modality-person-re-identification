@@ -49,6 +49,8 @@ This is a repository for organizing articles related to cross-modality person re
 ### w/ deep leaning
 > #### 1) *"Illumination-Adaptive Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.04525.pdf)]
 > #### 2) *"FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking"*, arXiv 2018 [[paper](https://arxiv.org/pdf/1811.09855.pdf)]
+> #### 3) *"Cascaded SR-GAN for Scale-Adaptive Low Resolution Person Re-identification"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0541.pdf)]
+
 
 ---
 
@@ -59,5 +61,11 @@ This is a repository for organizing articles related to cross-modality person re
 > #### 4) *"Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System"*, TIE 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643077)]
 > #### 5) *"Robust Collaborative Discriminative Learning for RGB-Infrared Tracking"*, AAAI 2018 [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16878/16289)]
 > #### 6) *"Modality-correlation-aware Sparse Representation for RGB-infrared Object Tracking"*, PRL 2018 [[paper](https://reader.elsevier.com/reader/sd/pii/S0167865518307633?token=D9B1592900076E965F3E70F01626BCE62B5D334F6E4009E8044CEF4AB1ACA7246D2F9D31FC016D376F5C8EE8D0E9D955)]
+> #### 7) *"Scale-adaptive Low-resolution Person Re-identification via Learning A Discriminating Surface"*, IJCAI 2016 [[paper](https://pdfs.semanticscholar.org/6713/4d7bf637f7ac4e354bcb374d7c28c7740ab8.pdf)]
+> #### 8) *"Multi-Level Fusion for Person Re-identification with Incomplete Marks"*, ACM Multimedia 2015 [[paper](http://delivery.acm.org/10.1145/2810000/2806400/p1267-wang.pdf?ip=143.248.41.15&id=2806400&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1562655835_49403d6ab21f2786eee05d4dd9f8d9d2)]
 
+---
+
+## 5. Survey
+> #### 1) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
 
