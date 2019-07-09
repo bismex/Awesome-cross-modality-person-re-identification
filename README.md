@@ -36,7 +36,6 @@ This is a repository for organizing articles related to cross-modality person re
 > #### 8) *"Hierarchical Discriminative Learning for Visible Thermal Person Re-Identification"*, AAAI 2018 [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16734/16350)] [[github](https://github.com/mangye16/Visible-Thermal-Person-Re-Identification)]
 > #### 9) *"RGB-Infrared Cross-Modality Person Re-Identification"*, ICCV 2017 [[paper](https://kovenyu.com/papers/2017_ICCV_rgb.pdf)] [[github](https://github.com/InnovArul/rgb_IR_personreid)]
 
-[[github](https://github.com/mangye16/Visible-Thermal-Person-Re-Identification)]
 
 ---
 
