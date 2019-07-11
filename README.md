@@ -2,6 +2,8 @@
 
 ## Awesome Cross-modality reid !!
 
+### Focusing on visible-thermal person reid !!
+
 This is a repository for organizing articles related to cross-modality person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
 **People who meet the following criteria are free to request a pull (pull request).**
