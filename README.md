@@ -11,6 +11,16 @@ This is a repository for organizing articles related to cross-modality person re
 - Changes to categories for some articles
 - Additions of a summary or performance
 
+
+***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
+
+***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
+- Feel free to visit my **[homepage](https://sites.google.com/site/seokeonchoi/)**
+- Check the preprint at **[arxiv](https://arxiv.org/abs/1912.01230)**
+
+***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
+- Feel free to visit my **[linkedin](https://sites.google.com/site/seokeonchoi/)**
+
 ---
 
 ## 1. Dataset
