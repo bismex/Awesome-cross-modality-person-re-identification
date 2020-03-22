@@ -1,10 +1,6 @@
 # Awesome Cross-modality Person Re-identification [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Awesome Cross-modality reid !!
-
-### Focusing on *visible-thermal person reid* !!
-
-This is a repository for organizing articles related to cross-modality person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
+This is a repository for organizing articles related to cross-modality person re-identification (especially focusing on visible-thermal person reid). Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
 **Other awesome re-identification**
 
