@@ -17,7 +17,7 @@ This is a repository for organizing articles related to cross-modality person re
 
 ***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
 - Feel free to visit my **[homepage](https://sites.google.com/site/seokeonchoi/)**
-- Check the preprint at **[arxiv](https://arxiv.org/abs/1912.01230)**
+- Check the preprint at **[open access](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)**
 
 ***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
 - Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
@@ -39,7 +39,7 @@ This is a repository for organizing articles related to cross-modality person re
 
 
 ## 2. Visible thermal person re-identification
-> #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"*, CVPR 2020 [[paper](https://arxiv.org/pdf/1912.01230.pdf)] [[github](https://github.com/bismex/HiCMD)]
+> #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"*, CVPR 2020 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)] [[github](https://github.com/bismex/HiCMD)]
 > #### 2) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"*, CVPR 2020 [[paper](https://arxiv.org/pdf/2002.12489.pdf)]
 > #### 3) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
 > #### 4) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"*, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
