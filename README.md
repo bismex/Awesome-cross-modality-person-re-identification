@@ -41,17 +41,17 @@ This is a repository for organizing articles related to cross-modality person re
 ## 2. Visible thermal person re-identification
 
 > #### 1) *"Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification"*, ECCV 2020 [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620222.pdf)]
-> #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"*, CVPR 2020 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)] [[github](https://github.com/bismex/HiCMD)]
-> #### 2) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"*, CVPR 2020 [[paper](https://arxiv.org/pdf/2002.12489.pdf)]
-> #### 3) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
-> #### 4) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"*, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
-> #### 5) *"Person Re-Identification Between Visible and Thermal Camera Images Based on Deep Residual CNN Using Single Input"*, IEEE Access 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8705321)] [[github](http://dm.dgu.edu/link.html)-No.34]
-> #### 6) *"Bi-directional Center-Constrained Top-Ranking for Visible Thermal Person Re-Identification"*, TIFS 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8732420)]
-> #### 7) *"HPILN: A feature learning framework for cross-modality person re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1906.03142.pdf)]
-> #### 8) *"Cross-Modality Person Re-Identification with Generative Adversarial Training"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0094.pdf)] [[github](https://github.com/sshkhr/cmGAN)]
-> #### 9) *"Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0152.pdf)] [[github](https://github.com/mangye16/Visible-Thermal-Person-Re-Identification)]
-> #### 10) *"Hierarchical Discriminative Learning for Visible Thermal Person Re-Identification"*, AAAI 2018 [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16734/16350)] [[github](https://github.com/mangye16/Visible-Thermal-Person-Re-Identification)]
-> #### 11) *"RGB-Infrared Cross-Modality Person Re-Identification"*, ICCV 2017 [[paper](https://kovenyu.com/papers/2017_ICCV_rgb.pdf)] [[github](https://github.com/InnovArul/rgb_IR_personreid)]
+> #### 2) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"*, CVPR 2020 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)] [[github](https://github.com/bismex/HiCMD)]
+> #### 3) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"*, CVPR 2020 [[paper](https://arxiv.org/pdf/2002.12489.pdf)]
+> #### 4) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
+> #### 5) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"*, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 6) *"Person Re-Identification Between Visible and Thermal Camera Images Based on Deep Residual CNN Using Single Input"*, IEEE Access 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8705321)] [[github](http://dm.dgu.edu/link.html)-No.34]
+> #### 7) *"Bi-directional Center-Constrained Top-Ranking for Visible Thermal Person Re-Identification"*, TIFS 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8732420)]
+> #### 8) *"HPILN: A feature learning framework for cross-modality person re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1906.03142.pdf)]
+> #### 9) *"Cross-Modality Person Re-Identification with Generative Adversarial Training"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0094.pdf)] [[github](https://github.com/sshkhr/cmGAN)]
+> #### 10) *"Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0152.pdf)] [[github](https://github.com/mangye16/Visible-Thermal-Person-Re-Identification)]
+> #### 11) *"Hierarchical Discriminative Learning for Visible Thermal Person Re-Identification"*, AAAI 2018 [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16734/16350)] [[github](https://github.com/mangye16/Visible-Thermal-Person-Re-Identification)]
+> #### 12) *"RGB-Infrared Cross-Modality Person Re-Identification"*, ICCV 2017 [[paper](https://kovenyu.com/papers/2017_ICCV_rgb.pdf)] [[github](https://github.com/InnovArul/rgb_IR_personreid)]
 
 
 ---
