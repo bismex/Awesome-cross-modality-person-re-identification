@@ -39,6 +39,8 @@ This is a repository for organizing articles related to cross-modality person re
 
 
 ## 2. Visible thermal person re-identification
+
+> #### 1) *"Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification"*, ECCV 2020 [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620222.pdf)]
 > #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"*, CVPR 2020 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)] [[github](https://github.com/bismex/HiCMD)]
 > #### 2) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"*, CVPR 2020 [[paper](https://arxiv.org/pdf/2002.12489.pdf)]
 > #### 3) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
