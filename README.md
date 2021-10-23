@@ -79,7 +79,7 @@ This is a repository for organizing articles related to cross-modality person re
 
 ### w/o deep learning
 - Cross-View Person Identification Based on Confidence-Weighted Human Pose Matching (TIP 2019) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8642932)]
-- Online Non-Negative Multi-Modality Feature Template Learning for RGB-Assisted Infrared Tracking IEEE Access 2019 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713854)]
+- Online Non-Negative Multi-Modality Feature Template Learning for RGB-Assisted Infrared Tracking (IEEE Access 2019) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713854)]
 - Fast RGB-T Tracking via Cross-Modal Correlation Filters (Neurocomputing 2019) [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231219300347?)]
 - Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System (TIE 2019) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643077)]
 - Robust Collaborative Discriminative Learning for RGB-Infrared Tracking (AAAI 2018) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16878/16289)]
