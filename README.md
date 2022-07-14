@@ -59,6 +59,13 @@ This is a repository for organizing articles related to cross-modality person re
 - Neural Feature Search for RGB-Infrared Person Re-Identification (CVPR 2021) [[paper](https://arxiv.org/abs/2104.02366)]
 - Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification (CVPR 2021) 
 
+**2022**
+
+- Learning With Twin Noisy Labels for Visible-Infrared Person Re-Identification (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf)]
+- FMCNet: Feature-Level Modality Compensation for Visible-Infrared Person Re-Identification (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_FMCNet_Feature-Level_Modality_Compensation_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf)]
+- Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_Memory-Augmented_Unidirectional_Metrics_for_Cross-Modality_Person_Re-Identification_CVPR_2022_paper.pdf)]
+- Learning Modal-Invariant and Temporal-Memory for Video-Based Visible-Infrared Person Re-Identification (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Learning_Modal-Invariant_and_Temporal-Memory_for_Video-Based_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf)]
+
 ---
 
 ## 4. Thermal image translation
