@@ -57,7 +57,7 @@ This is a repository for organizing articles related to cross-modality person re
 - Syncretic Modality Collaborative Learning for Visible Infrared Person Re-Identification (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_Syncretic_Modality_Collaborative_Learning_for_Visible_Infrared_Person_Re-Identification_ICCV_2021_paper.pdf)]
 - Learning by Aligning: Visible-Infrared Person Re-Identification Using Cross-Modal Correspondences (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Learning_by_Aligning_Visible-Infrared_Person_Re-Identification_Using_Cross-Modal_Correspondences_ICCV_2021_paper.pdf)] [[github](https://cvlab.yonsei.ac.kr/projects/LbA/)]
 - Neural Feature Search for RGB-Infrared Person Re-Identification (CVPR 2021) [[paper](https://arxiv.org/abs/2104.02366)]
-- Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification (CVPR 2021) 
+- Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification (CVPR 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Discover_Cross-Modality_Nuances_for_Visible-Infrared_Person_Re-Identification_CVPR_2021_paper.pdf)]
 
 **2022**
 
